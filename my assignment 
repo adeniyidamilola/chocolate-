@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>table</title>
+</head>
+<body bgcolor="#87CEFA">
+    <br>
+        <center>
+                <font size="5">
+                        <a href="index.html">HOME</a>&nbsp;&nbsp;
+                        <a href="form.html">FORM</a>&nbsp;&nbsp;
+                        <a href="table.html">TABLE</a>&nbsp;&nbsp;
+                        <a href="list.html">LIST</a>&nbsp;&nbsp;
+                        <a href="about.html">ABOUT</a>
+                </font><br><br>
+            </center>
+            <font size="5">
+    <table>
+        <th colspan="2">200L Harmattan Courses</th>
+        <tr>
+            <td>
+                <table width="300">
+                    <tr>
+                        <td>LIS 201</td>
+                        <td>2 Units</td>
+                    </tr>
+                    <tr>
+                        <td>LIS 202</td>
+                        <td>2 Units</td>
+                    </tr>
+                    <tr>
+                        <td>LIS 205</td>
+                        <td>2 Units</td>
+                    </tr>
+                    <tr>
+                            <td>LIS 207</td>
+                            <td>2 Units</td>
+                    </tr>
+                </table>
+            </td>
+            <td>
+                <table width="300">
+                    <tr>
+                        <td>CSC 207</td>
+                        <td>3 Units</td>
+                    </tr>
+                    <tr>
+                        <td>GNS 201</td>
+                        <td>1 Unit</td>
+                    </tr>
+                    <tr>
+                        <td>GNS 203</td>
+                        <td>1 Unit</td>
+                    </tr>
+                    <tr>
+                        <td>ECP 207</td>
+                        <td>2 Units</td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+    </table>
+    <br><br>
+    <table width="500" border="1">
+        <th colspan="4">Sales in one week</th>
+        <tr>
+            <td>S/N</td>
+            <td>Income</td>
+            <td>Outcome</td>
+            <td>Remains</td>
+        </tr>
+        <tr>
+            <td>1</td>
+            <td>50 000</td>
+            <td>30 000</td>
+            <td>20 000</td>
+        </tr>
+        <tr>
+                <td>2</td>
+                <td>60 000</td>
+                <td>10 000</td>
+                <td>50 000</td>
+        </tr>
+        <tr>
+                <td>3</td>
+                <td>30 000</td>
+                <td>10 000</td>
+                <td>20 000</td>
+        </tr>
+        <tr>
+                <td>4</td>
+                <td>40 000</td>
+                <td>15 000</td>
+                <td>25 000</td>
+        </tr>
+        <tr>
+                <td>5</td>
+                <td>70 000</td>
+                <td>30 000</td>
+                <td>40 000</td>
+        </tr>
+        <tr>
+            <td>6</td>
+            <td>100 000</td>
+            <td>50 000</td>
+            <td>50 000</td>
+        </tr>
+        <tr>
+                <td>7</td>
+                <td>60 000</td>
+                <td>20 000</td>
+                <td>40 000</td>
+        </tr>
+        <tr>
+            <td colspan="3">Total</td>
+            <td>245 000</td>
+        </tr>
+    </table>
+    <br><br>
+
+</font>
+    <center>
+            <font size="4" color="red">
+               &copy All Rights Reserved, 2019.
+            </font>
+        </center>
+</body>
+</html>
